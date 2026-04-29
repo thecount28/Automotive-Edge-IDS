@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# STM32 / C outputs
+*.o
+*.elf
+*.bin
+*.hex
+Debug/
+Release/
+
+# OS hidden files
+.DS_Store
+Thumbs.db
